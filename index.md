@@ -1,4 +1,4 @@
 ---
-title: twiistrzdev GitHub Pages
+title: twiistrzdev Blog
 ---
 
